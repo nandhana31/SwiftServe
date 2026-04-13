@@ -23,19 +23,6 @@ SwiftServe is a lightweight web server that demonstrates low-level networking, c
 
 ---
 
-## Project Structure
-SwiftServe/
-│
-├── server.cpp
-├── logs.txt
-└── public/
-├── index.html
-├── about.html
-└── style.css
-
-
----
-
 ## Getting Started
 
 ### 1. Compile
